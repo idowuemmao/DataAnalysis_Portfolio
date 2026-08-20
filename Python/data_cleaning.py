@@ -1,0 +1,1 @@
+customerDB['location'] = customerDB['location'].str.lowered()
