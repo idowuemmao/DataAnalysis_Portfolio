@@ -3,7 +3,7 @@ Welcome to my data analytics portfolio. This repository contains real-world proj
 
 # Connect With Me
 
--LinkedIn
--YouTube 
--Portfolio 
--Email
+-[LinkedIn](https://www.linkedin.com/in/emmanuel-idowu-analyst)
+-[YouTube](https://www.youtube.com/@emmy-the-analyst)
+-[Portfolio](https://www.emmy-portfolio.vercel.app)
+-[Email](idowuemmao@gmail.com)

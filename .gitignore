@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 **/.pbi/localSettings.json
 **/.pbi/cache.abf
+=======
+.pbi/
+localSettings.json
+*.pbix
+>>>>>>> aa7636f7a84b8a21670e3061559602daed346543
